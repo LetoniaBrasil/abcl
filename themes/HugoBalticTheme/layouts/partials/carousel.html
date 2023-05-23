@@ -1,0 +1,90 @@
+<section>
+    <div class="text-center">
+        <img src="https://scontent.fcpq4-1.fna.fbcdn.net/v/t1.6435-9/32332351_1712064948874128_8227929665684111360_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF6qEQmIgWsxWAPxGWcB6geY9rDXqYYeTVj2sNephh5NQvl1lO5Z0iYTIR5lvRz5gkbSKNp9DmNcus6RoaFJzst&_nc_ohc=ABafasR3r-0AX8T3fVh&_nc_ht=scontent.fcpq4-1.fna&oh=00_AfCOjfP4ziY7-U_SVARgqT3BVayBOIiTu5nhq3DLTwXshQ&oe=64943C0A" />
+        <!-- <video style="width:90vw" autoplay muted loop>
+            <source src="images/other/bg.mp4" type="video/mp4" />
+        </video> -->
+    </div>
+    <div class="container">
+        <div class="col-md-12">
+            <p class="lead">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum ante ut mi viverra sodales. Fusce faucibus in sem sit amet dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc ullamcorper ligula neque, sed finibus mi fringilla id. Nulla facilisi. Mauris malesuada metus suscipit, sollicitudin sem eu, posuere ipsum. Vestibulum quis semper nisi, in fringilla velit. Nam sed orci id nulla sollicitudin ornare. 
+            </p>
+            <p class="lead">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum ante ut mi viverra sodales. Fusce faucibus in sem sit amet dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc ullamcorper ligula neque, sed finibus mi fringilla id. Nulla facilisi. Mauris malesuada metus suscipit, sollicitudin sem eu, posuere ipsum. Vestibulum quis semper nisi, in fringilla velit. Nam sed orci id nulla sollicitudin ornare.
+            </p>
+            <p class="lead">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum ante ut mi viverra sodales. Fusce faucibus in sem sit amet dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc ullamcorper ligula neque, sed finibus mi fringilla id. Nulla facilisi. Mauris malesuada metus suscipit, sollicitudin sem eu, posuere ipsum. Vestibulum quis semper nisi, in fringilla velit. Nam sed orci id nulla sollicitudin ornare.
+            </p>
+        </div>
+        <div class="text-center">
+            <a href="/about/" class="btn btn-template-primary" role="button">Leia mais!</a>
+        </div>
+        <hr />
+        <!-- 
+        <div class="row">
+            <div class="col-md-6">
+                <div class="media">
+                    <div class="media-left media-middle">
+                        <img src="images/team/olev.jpg" class="img-circle" style="width: 100px;" alt="Olevs" />
+                    </div>
+                    <div class="media-body media-middle"> 
+                        <p style="font-size: 2rem;"><b>Olevs Nikers</b>, President</p>
+                        <p>Senior analyst at the Jamestown Foundation. Former chief expert at the Ministry of Defense of Latvia (2001-2019).</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="media">
+                    <div class="media-left media-middle">
+                        <img src="images/team/otto_squared.jpg" class="img-circle" style="width: 100px;" alt="Otto" />
+                    </div>
+                    <div class="media-body media-middle">
+                        <p style="font-size: 2rem;"><b>Otto Tabuns</b>, Director</p>
+                        <p>Foreign and security policy expert for 10 years. Co-host of the “Latvia Weekly” political news program.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="padding-top: 2rem; text-align: center;">
+            <a href="/team/" class="btn btn-template-primary" role="button">Meet our team and experts!</a>
+        </div>
+        <hr />
+    </div> -->
+</section>
+
+{{ if default true .Site.Params.CarouselHomepage.enable }}
+{{ if isset .Site.Data "carousel" }}
+{{ if gt (len .Site.Data.carousel) 0 }}
+    <!--<div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel"
+                data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
+                data-slide-speed="{{ default 2000 .Site.Params.CarouselHomepage.slide_speed }}"
+                data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}">
+                {{ range sort .Site.Data.carousel "weight" }}
+                <div class="item">
+                    {{ if .href }}
+                    <a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}">
+                    {{ end }}
+                        <div class="row">
+                            <div class="col-sm-5 right">
+                                <h1>{{ .title | safeHTML }}</h1>
+                                {{ .description | safeHTML }}
+                            </div>
+                            <div class="col-sm-7">
+                                <img class="img-responsive" src="{{ .image }}" alt="">
+                            </div>
+                        </div>
+                    {{ if .href }}
+                    </a>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>-->
+{{ end }}
+{{ end }}
+{{ end }}
