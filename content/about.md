@@ -1,5 +1,5 @@
 +++
-title = "About the BSF"
+title = "História da ABCL"
 +++
 
 <div style="text-align: center">
@@ -7,12 +7,17 @@ title = "About the BSF"
 </div>
 
 <hr />
-<h2 style="text-align: center">History</h2>
+<h2 style="text-align: center">História da ABCL</h2>
 <hr />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu diam ac enim scelerisque suscipit. In hac habitasse platea dictumst. In hac habitasse platea dictumst. Maecenas mattis nibh non nulla dictum, sed posuere lacus ultricies. Praesent dapibus tellus enim, nec sollicitudin justo porta vel. Etiam venenatis viverra neque. Nam porttitor risus vel risus dignissim efficitur. Proin ut erat sapien. Cras nec justo libero. Integer mattis auctor nulla, ac finibus dui rhoncus consectetur.
+Oficialmente a ABCL - Associação Brasileira de Cultura Leta foi fundada em 26 de maio de 1979 em São Paulo com estatuto registrado com o nome de Centro Brasileira de Cultura Leta, porém acreditamos que as reuniões com a ideia da criação da associação começaram em 1977 em Nova Odessa.  Temos abaixo a foto do acervo do Museu e Centro de Pesquisa - Latvieši pasaulē "Letos do Mundo". O acervo pode ser acessado nesse link: https://latviesipasaulefoto.lv/
 
-Donec ut eros pretium, fermentum nibh ac, efficitur nisl. Nulla nec leo sit amet magna tempor mollis. Praesent sagittis magna mattis pulvinar vestibulum. Nam at nisl auctor, scelerisque erat a, pretium quam. Ut sit amet ex sit amet turpis commodo euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus efficitur ut mi non cursus. Nam placerat tortor in ante imperdiet finibus. Nam non est sed ligula tincidunt rutrum. Fusce in nunc posuere, viverra mi in, commodo libero. Aliquam erat volutpat. Phasellus volutpat lectus sodales, sagittis velit eget, ornare nibh. Nam venenatis ut mi ac cursus. Aliquam bibendum ex nec nibh vestibulum fringilla. Nulla a vestibulum urna, vel faucibus leo. 
+<a href="https://filedn.eu/l2I1GxbEBri7DjU2AH97iT5/abcl.info/hist%C3%B3rico/LP2016.1353.jpg">LP2016.1353.jpg</a>
+Diretoria do Centro Brasileiro de Cultura Leta, foto tirada em 1977 na igreja Luterana Leta em Nova Odessa.  Na primeira fileira da esquerda para a direita: Pastor Luterano Jēkabs Mekšs, Pastor Batista Andrejs Ceruks, Zigrīda Gintere, Rūdolfs Ķīvītis (presidente), Normunds Alēns. Segunda fileira: Arvīds Spodris, Otto Lezdkalns, Pēteris Balaņuks. Acervo: Museu e Centro de Pesquisa - Latvieši pasaulē "Letos do Mundo" - https://latviesipasaulefoto.lv/object/?o=95098
+
+Estatuto de 2003
+
+<a href="https://filedn.eu/l2I1GxbEBri7DjU2AH97iT5/abcl.info/hist%C3%B3rico/Estatuto%20ABCL%202003%20-%20Publico.pdf">Estatuto ABCL 2003.pdf</a>
 
 <hr />
 <h2 style="text-align: center">Objectives</h2>
