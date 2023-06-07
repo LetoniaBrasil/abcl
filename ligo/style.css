@@ -1,0 +1,28 @@
+background {
+    background-color: #000000;
+}
+
+html {
+    background-color: #000000;
+}
+
+H1 {
+    color: #05b200;
+    font-size: 38px;
+    text-align: center;
+    font-family: 'Actor', sans-serif;
+}
+
+H2 {
+    color: #b50000;
+    font-size: 42px;
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Alexandria', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}
