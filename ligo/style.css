@@ -13,8 +13,8 @@ html {
 }
 
 H1 {
-    color: #05b200;
-   /*color: white;*/
+   /* color: #05b200;*/
+   color: white;
     font-size: 38px;
    font-size: max(38, 20vw);
     text-align: center;
