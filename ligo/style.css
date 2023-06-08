@@ -31,6 +31,35 @@ p {
   .text {
     font-size: 60px;
   }
+
+H1 {
+    color: #05b200;
+    font-size: 83px;
+    text-align: center;
+    font-family: 'Actor', sans-serif;
+}
+
+H2 {
+    color: #b50000;
+    font-size: 63px;
+    font-family: 'Actor', sans-serif;
+    text-align: center;
 }
 
 
+H3 {
+    color: #ffffff;
+    font-size: 52px;
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Alexandria', sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+}
