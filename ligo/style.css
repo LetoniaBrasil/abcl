@@ -9,9 +9,9 @@ html {
 }
 
 H1 {
-   /* color: #05b200;*/
-   color: white;
-   font-size: max(48px, 20vw);
+    color: #05b200;
+   /*color: white;*/
+   font-size: max(36px, 10vw);
     text-align: center;
     font-family: 'Actor', sans-serif;
     font-style: italic;
@@ -19,14 +19,14 @@ H1 {
 
 H2 {
     color: #b50000;
-   font-size: max(40px, 18vw);
+   font-size: max(30px, 10vw);
     font-family: 'Actor', sans-serif;
     text-align: center;
 }
 
 p {
     font-family: 'Alexandria', sans-serif;
-   font-size: max(35px, 17vw);
+   font-size: min(15px, 8vw);
     color: #ffffff;
     text-align: center;
 }
