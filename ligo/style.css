@@ -10,7 +10,7 @@ html {
 H1 {
     /*color: #05b200;*/
    color: white;
-   font-size: max(30px, 5vw);
+   font-size: min(30px, 5vw);
     text-align: center;
     font-family: 'Actor', sans-serif;
     font-style: italic;
@@ -18,7 +18,7 @@ H1 {
 
 H2 {
     color: #b50000;
-   font-size: max(30px, 6vw);
+   font-size: min(30px, 6vw);
     font-family: 'Actor', sans-serif;
     text-align: center;
 }
