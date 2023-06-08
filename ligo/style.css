@@ -12,7 +12,7 @@ H1 {
    /* color: #05b200;*/
    color: white;
     font-size: 38px;
-   font-size: max(38, 20vw);
+   font-size: max(48, 20vw);
     text-align: center;
     font-family: 'Actor', sans-serif;
     font-style: italic;
@@ -20,14 +20,14 @@ H1 {
 
 H2 {
     color: #b50000;
-    font-size: min(50px, 5vw)
+   font-size: max(40, 18vw)
     font-family: 'Actor', sans-serif;
     text-align: center;
 }
 
 p {
     font-family: 'Alexandria', sans-serif;
-    font-size: max(38, 20vw);
+   font-size: max(35, 17vw)
     color: #ffffff;
     text-align: center;
 }
