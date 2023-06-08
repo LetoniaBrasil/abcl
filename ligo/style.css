@@ -13,7 +13,8 @@ html {
 }
 
 H1 {
-    color: #05b200;
+    /*color: #05b200;*/
+   color: white;
     font-size: 38px;
     text-align: center;
     font-family: 'Actor', sans-serif;
@@ -22,14 +23,14 @@ H1 {
 
 H2 {
     color: #b50000;
-    font-size: 42px;
+    font-size: max(150, 20vw);
     font-family: 'Actor', sans-serif;
     text-align: center;
 }
 
 p {
     font-family: 'Alexandria', sans-serif;
-    font-size: min(150px, 10vw);
+    font-size: min(100px, 10vw);
     color: #ffffff;
     text-align: center;
 }
@@ -38,47 +39,8 @@ img {
     width: 90%;
   }
 
-@media (max-width: 480px) {
-  .text {
-    font-size: 60px;
-  }
-
-H1 {
-    /*color: #05b200;*/
-    color: #b50000;
-    font-size: 83px;
-    text-align: center;
-    font-family: 'Actor', sans-serif;
-}
-
-H2 {
-    color: #b50000;
-    font-size: 63px;
-    font-family: 'Actor', sans-serif;
-    text-align: center;
-}
-
-
-H3 {
-    color: #ffffff;
-    font-size: 52px;
-    font-family: 'Actor', sans-serif;
-    text-align: center;
-}
-
-p {
-    font-family: 'Alexandria', sans-serif;
-    font-size: 50px;
-    color: #ffffff;
-    text-align: center;
-}
-img {
-    width: 50%;
-  }
-    
-   
  .logo {
     width: "363";
   }
 
-}
+
