@@ -30,7 +30,7 @@ H2 {
 
 p {
     font-family: 'Alexandria', sans-serif;
-    font-size: min(100px, 10vw);
+    font-size: min(50px, 5vw);
     color: #ffffff;
     text-align: center;
 }
