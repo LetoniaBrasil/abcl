@@ -10,7 +10,7 @@ html {
 H1 {
    /* color: #05b200;*/
    color: white;
-   font-size: min(35px, 12vw);
+   font-size: min(40px, 15vw);
     text-align: center;
     font-family: 'Actor', sans-serif;
     font-style: italic;
