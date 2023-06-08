@@ -11,7 +11,7 @@ H1 {
     font-size: 38px;
     text-align: center;
     font-family: 'Actor', sans-serif;
-    /*font-style: italic;*/
+    font-style: italic;
 }
 
 H2 {
@@ -27,6 +27,10 @@ p {
     color: #ffffff;
     text-align: center;
 }
+
+img {
+    width: 50%;
+  }
 
 @media (max-width: 480px) {
   .text {
@@ -58,12 +62,12 @@ H3 {
 
 p {
     font-family: 'Alexandria', sans-serif;
-    font-size: 40px;
+    font-size: 50px;
     color: #ffffff;
     text-align: center;
 }
 img {
-    width: 100%;
+    width: 50%;
   }
     
     
