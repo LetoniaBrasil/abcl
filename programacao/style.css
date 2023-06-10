@@ -23,6 +23,15 @@ H2 {
     text-align: center;
 }
 
+H3 {
+    color: #b50000;
+   background-color:#ffff00; 
+   font-size: min(45px, 20vw);
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+
+
 p {
     font-family: 'Alexandria', sans-serif;
    font-size: min(35px, 13vw);
