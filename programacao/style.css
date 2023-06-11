@@ -39,10 +39,27 @@ H4 {
     font-family: 'Actor', sans-serif;
     text-align: center;
 }
-	
 H4 span {
 	/* background-color:#ffff00;*/ 
 	}
+
+H5 {
+    color: #006600;
+  /* background-color:#ffff00;*/ 
+   font-size: min(45px, 20vw);
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+H6  {
+    color: #000066;
+  /* background-color:#ffff00;*/ 
+   font-size: min(40px, 15vw);
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+
+
+
 
 p {
     font-family: 'Alexandria', sans-serif;
@@ -58,11 +75,11 @@ a {
 	}
 
 .row {
-  background: #f8f9fa;
+  background: #ffffff;
   margin-top: 20px;
 }
 
 .col {
-  border: solid 1px #6c757d;
+  border: solid 1px #006600;
   padding: 10px;
 }
