@@ -8,9 +8,9 @@ html {
 
 
 H1 {
-   /* color: #05b200;*/
+   color: #05b200;
    display:inLine;
-   color: white;
+   /* color: white; */
    font-size: min(40px, 15vw);
     text-align: center;
     font-family: 'Actor', sans-serif;
