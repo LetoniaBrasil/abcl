@@ -46,14 +46,14 @@ H4 span {
 H5 {
     color: #006600;
   /* background-color:#ffff00;*/ 
-   font-size: min(45px, 20vw);
+   font-size: min(20px, 20vw);
     font-family: 'Actor', sans-serif;
     text-align: center;
 }
 H6  {
     color: #000066;
   /* background-color:#ffff00;*/ 
-   font-size: min(40px, 15vw);
+   font-size: min(15px, 15vw);
     font-family: 'Actor', sans-serif;
     text-align: center;
 }
@@ -76,7 +76,7 @@ a {
 
 .row {
   background: #ffffff;
-  margin-top: 01px;
+ /* margin-top: 01px; */
 }
 
 .col {
