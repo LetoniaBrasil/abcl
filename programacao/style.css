@@ -57,3 +57,12 @@ a {
     background:#ff0;
 	}
 
+.row {
+  background: #f8f9fa;
+  margin-top: 20px;
+}
+
+.col {
+  border: solid 1px #6c757d;
+  padding: 10px;
+}
