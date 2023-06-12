@@ -30,6 +30,13 @@ p {
     text-align: center;
 }
 
+leg {
+    font-family: 'Alexandria', sans-serif;
+   font-size: min(25px, 8vw);
+    color: #ffffff;
+    text-align: center;
+}
+
 a {
     font-size: min(35px, 10vw);
 	text-decoration: underline overline;
