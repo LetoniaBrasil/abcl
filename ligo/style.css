@@ -30,7 +30,7 @@ p {
     text-align: center;
 }
 
-p span{
+.span{
     font-family: 'Alexandria', sans-serif;
    font-size: min(25px, 8vw);
     color: #ffffff;
