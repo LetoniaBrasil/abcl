@@ -1,4 +1,4 @@
-baseurl = "https://LetoniaBrasil.github.io/abcl"
+baseurl = "https://abcl.com.br/"
 title = "ABCL"
 theme = "HugoBalticTheme"
 themesDir = "themes"

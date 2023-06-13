@@ -1,0 +1,88 @@
+
+background {
+    background-color: #93B874;
+}
+html {
+    background-color: #93B874;
+}
+
+
+H1 {
+   color: #05b200;
+   display:inLine;
+   /* color: white; */
+   font-size: min(40px, 15vw);
+    text-align: center;
+    font-family: 'Actor', sans-serif;
+    font-style: italic;
+}
+
+H2 {
+    color: #b50000;
+   font-size: min(40px, 15vw);
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+
+H3 {
+    color: #b50000;
+   /* background-color:#ffff00; */
+   font-size: min(45px, 20vw);
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+
+H4 {
+    color: #b50000;
+  /* background-color:#ffff00;*/ 
+   font-size: min(45px, 20vw);
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+H4 span {
+	/* background-color:#ffff00;*/ 
+	}
+
+H5 {
+    color: #006600;
+  /* background-color:#ffff00;*/ 
+   font-size: min(20px, 5vw);
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+H6  {
+    color: #000066;
+  /* background-color:#ffff00;*/ 
+   font-size: min(15px, 10vw);
+    font-family: 'Actor', sans-serif;
+    text-align: center;
+}
+
+
+
+
+p {
+    font-family: 'Alexandria', sans-serif;
+   font-size: min(35px, 13vw);
+    color: #ffffff;
+    text-align: center;
+}
+.span 
+
+
+
+a {
+    font-size: min(20px, 5vw);
+	text-decoration: underline overline;
+    background:#ff0;
+	}
+
+.row {
+  background: #ffffff;
+ /* margin-top: 01px; */
+}
+
+.col {
+  border: solid 1px #006600;
+  padding: 10px;
+}

@@ -1,13 +1,13 @@
 /* Themed colors */
 :root {
-  --primary-accent: #42a0d9;
-  --navbar-border-top: #20616d;
-  --button-border: #42a0d9;
-  --link-focus: #267280;
-  --form-shadow: rgba(56, 167, 187, 0.6);
-  --pagination-bg: #a7dbe5;
-  --link-hover-bg: #2c8494;
-  --navbar-focus: #80cbd9;
+  --primary-accent: #9D2235;
+  --navbar-border-top: #8e2957;
+  --button-border: #9D2235;
+  --link-focus: #8e2957;
+  --form-shadow: #8e2957;
+  --pagination-bg: #ffe4e3;
+  --link-hover-bg: #8e2957;
+  --navbar-focus: #ffe4e3;
 }
 
 .clearfix:before,
