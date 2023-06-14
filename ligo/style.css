@@ -10,10 +10,10 @@ html {
 
 
 H1 {
-   color: #05b200;
+   /*color: #05b200;*/
    display:inLine;
-   /* color: white; */
-   font-size: min(40px, 15vw);
+   color: white;
+   font-size: min(250px, 8vw);
     text-align: center;
     font-family: 'Actor', sans-serif;
     font-style: italic;
@@ -21,7 +21,7 @@ H1 {
 
 H2 {
     color: #b50000;
-   font-size: min(40px, 15vw);
+   font-size: min(30px, 10vw);
     font-family: 'Actor', sans-serif;
     text-align: center;
 }
@@ -69,7 +69,14 @@ p {
     color: #ffffff;
     text-align: center;
 }
-.span 
+
+
+p1 {
+    font-family: 'Alexandria', sans-serif;
+   font-size: min(35px, 13vw);
+   color: white;
+    text-align: center;
+}
 
 
 
