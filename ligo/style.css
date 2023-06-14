@@ -13,7 +13,7 @@ H1 {
    /*color: #05b200;*/
    display:inLine;
    color: white;
-   font-size: min(250px, 8vw);
+   font-size: min(25px, 8vw);
     text-align: center;
     font-family: 'Actor', sans-serif;
     font-style: italic;
